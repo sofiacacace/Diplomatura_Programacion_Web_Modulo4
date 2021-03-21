@@ -1,0 +1,13 @@
+Unidad 1 y 2:
+
+-Introducción a JSON
+-Métodos HTTP
+-Introducción a Api Rest
+-Creación de una Api Rest en Express
+-Concepto de Middleware
+-Creación de un middleware
+-Autenticación
+-Concepto de sesiones
+-JWT
+
+Trabajo Práctico: Crear una app donde se incluyan todos los temas vistos en las unidades 1 y 2.
